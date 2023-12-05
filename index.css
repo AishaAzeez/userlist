@@ -1,0 +1,28 @@
+body{
+    background: linear-gradient(to bottom, 
+    #c5bac4  0%,
+    #989daa 20%,
+    #7b919c 40%, 
+    #57707a 60%, 
+    #191d23 80%
+    
+  );
+  font-family:'Permanent Marker', cursive;
+}
+#total{
+    padding: auto;
+    width:auto;
+}
+.d{
+    width: 300px;
+border-radius: 8px;
+backdrop-filter: blur(20px);
+background-color: rgba(225, 225, 225, 0.295);
+box-shadow: 0 1px 12px rgba(0, 0, 0, 0.052);
+border: 1px solid rgba(225, 225, 225, 0.188);
+
+}
+.list-group-item{
+    background-color:transparent;
+
+}
